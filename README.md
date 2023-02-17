@@ -14,13 +14,13 @@ For real Redis Enterprise to ElastiCache deployment comparison it is important t
 # getting started
 
 ```
-Create your virtual environment
-* python3 -m venv ./venv
-Install requirements
-* pip install --upgrade pip
-* pip3 install -r requirements.txt
-(you may need to update your path with the python directory)
-Open Jupyter notebook (it will open in a browser window)
-* jupyter notebook
-    - notebook/EC-RE-Comparison-Simplified.ipynb
+#Create your virtual environment
+python3 -m venv ./venv
+#Install requirements
+pip install --upgrade pip
+pip3 install -r requirements.txt
+#(you may need to update your path with the python directory)
+#Open Jupyter notebook (it will open in a browser window)
+jupyter notebook
+# go find the notebook "notebook/EC-RE-Comparison-Simplified.ipynb"
 ```
